@@ -1,0 +1,7 @@
+tabela: iris.csv
+variaveis: 
+  "y": Sepal.Length
+  "x": [Sepal.Width, Petal.Length, Species]
+metodo: rl
+tau: 
+predicao: [5, 2, setosa, 6, 4, versicolor]
