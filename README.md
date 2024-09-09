@@ -8,7 +8,7 @@ especificar o nome dele no objeto `tabela` em `configuracao.yaml`, assim
 como fornecer o nome da variável resposta e da(s) variável(is)
 explicativa(s) nos campos especificados, respectivamente, como `y` e
 `x`. Se houver mais de uma variável explicativa, deve-se colocá-las no
-seguinte formato: `[nome_variável_1, nome_variável_2, ...]`). Caso elas
+seguinte formato: `[nome_variável_1, nome_variável_2, ...]`. Caso elas
 não sejam devidamente especificadas ou os campos sejam deixados em
 branco, um erro será retornado.
 
